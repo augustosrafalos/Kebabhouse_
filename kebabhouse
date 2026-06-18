@@ -1,0 +1,45 @@
+index.html<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <title>Frisør Holbæk</title>
+    <style>
+        body {
+            font-family: Arial;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: darkblue;
+        }
+
+        .btn {
+            background: darkblue;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Frisør Holbæk</h1>
+
+<p>Velkommen til vores frisørsalon.</p>
+
+<h2>Åbningstider</h2>
+
+<p>
+Mandag-Fredag: 9-17<br>
+Lørdag: 10-14
+</p>
+
+<a href="tel:12345678" class="btn">
+Ring nu
+</a>
+
+</body>
+</html>
